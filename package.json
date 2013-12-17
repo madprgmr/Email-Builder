@@ -43,7 +43,7 @@
   "dependencies": {
     "xmlbuilder": "~0.4.2",
     "cheerio": "~0.10.3",
-    "juice": "jgannonjr/juice",
+    "juice": "madprgmr/juice",
     "less": "~1.5.1",
     "jade": "~0.35.0",
     "async": "~0.2.9",
